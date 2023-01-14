@@ -1,5 +1,6 @@
 class A {
-    int b = 20;
+    int b = 5;
+    int c = 8;
 
 
 }
